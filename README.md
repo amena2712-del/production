@@ -85,6 +85,7 @@ Participants are encouraged to engage actively during the learning module. The k
 |  3  | Thur., Jan. 15, 2026    | Working with Training Data       |
 |  --  | Fri., Jan. 16, 2026     | Work Period  |
 |  --  | Sat., Jan. 17, 2026     | Work Period  |
+<<<<<<< HEAD
 | --  | **Sun., Jan. 18, 2026**        | **Submission deadline for Quizzes 1-3** |
 | --  | **Mon., Jan. 19, 2026**        | **Submission deadline for Assignment 1** |
 |  4  | Tue., Jan. 20, 2026     | Feature Engineering              |
@@ -94,6 +95,15 @@ Participants are encouraged to engage actively during the learning module. The k
 |  --  | Sat., Jan. 24, 2026     | Work Period  |
 |  --  | **Sun., Jan. 25, 2026**     | **Submission deadline for Quizzes 4-6** | 
 |  --  | **Mon., Jan. 26, 2026**     | **Submission deadline for Assignment 2** | 
+=======
+| --  | **Sun., Jan. 18, 2026**        | **Submission deadline for Assignment 1 and Quizzes 1-3** |
+|  4  | Tue., Jan. 19, 2026     | Feature Engineering              |
+|  5  | Wed., Jan. 20, 2026     | Model Development and Evaluation |
+|  6  | Thur., Jan. 21, 2026     | Model Explanations and Monitoring|
+|  --  | Fri., Jan. 22, 2026     | Work Period  |
+|  --  | Sat., Jan. 23, 2026     | Work Period  |
+|  --  | **Sun., Jan. 24, 2026**     | **Submission deadline for Assignment 2 and Quizzes 4-6** | 
+>>>>>>> cohort_8
 
 ### Requirements
 
